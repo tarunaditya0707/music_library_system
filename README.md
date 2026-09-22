@@ -93,7 +93,7 @@ music-library-system-sql-analysis/
 
 ## Author
 
-**Tarun_Aditya**
+**Tarun Aditya**
 
 B.Tech – Electronics and Communication Engineering
 
