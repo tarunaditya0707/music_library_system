@@ -78,16 +78,16 @@ Some of the analysis identified:
 ## Project Structure
 
 --- text
-music-library-sql-analysis/
+music-library-system
 │
 ├── README.md
-└── music_library.sql
+└── music_library_system.sql
 
 ## How to Run
 
 1. Install MySQL or MySQL Workbench.
 2. Download or clone this repository.
-3. Open `music_library.sql` in MySQL Workbench.
+3. Open `music_library_system.sql` in MySQL Workbench.
 4. Execute the SQL script to create the database and tables.
 5. Run the analysis queries to explore the data and generate insights.
 
