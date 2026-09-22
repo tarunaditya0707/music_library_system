@@ -98,3 +98,25 @@ music-library-system-sql-analysis/
 B.Tech – Electronics and Communication Engineering
 
 Aspiring Data Analyst | SQL | MySQL | Python | Excel | Power BI
+
+## Project Screenshots
+
+### Database Schema
+
+![Database Schema](screenshots/database-schema.png)
+
+### Country-wise Top Genre Analysis
+
+![Country-wise Top Genre Analysis](screenshots/sql-genre-analysis.png)
+
+### Top 10 Rock Artists
+
+![Top 10 Rock Artists](screenshots/artist-genre-analysis.png)
+
+### Customer Spending by Artist
+
+![Customer Spending by Artist](screenshots/customer-artist-analysis.png)
+
+### Highest-Spending Customer by Country
+
+![Highest-Spending Customer by Country](screenshots/customer-spending-analysis.png)
