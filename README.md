@@ -77,8 +77,8 @@ Some of the analysis identified:
 
 ## Project Structure
 
---- text
-music-library-system/
+``text
+music-library-system-sql-analysis/
 │
 ├── README.md
 └── music_library_system.sql
